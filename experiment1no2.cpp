@@ -11,7 +11,7 @@ int main()
 	cout << "Please input density in grams per cubic centimeters:" << endl;
 	cin >> D;
 	cout <<"Density=" << D <<"g/cm^3"<< endl;
-	cout << "Volume of the volume:" << M/(4*D) <<"cm^3"<< endl;
+	cout << "Volume of the object:" << M/(4*D) <<"cm^3"<< endl;
 
 
 _getch();
